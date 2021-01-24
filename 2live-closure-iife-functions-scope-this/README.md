@@ -1,3 +1,13 @@
-*see browser console*
+create index.html
+    all 
 
-https://github.com/ErickWendel/closures-afunctions-scope-this-yt
+create contadorComponent.js 
+import on index.html 
+
+create index.js 
+import on index.html 
+index.js 
+    all
+
+contadorComponent
+    iniciar()
